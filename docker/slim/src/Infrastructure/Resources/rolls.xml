@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+    <Success>True</Success>
+    <Data>
+        <PatientRoll Id="283471" BatchId="2041330" PatientId="1234567" PIndex="0" />
+        <PatientRoll Id="283472" BatchId="2041328" PatientId="1234567" PIndex="0" />
+    </Data>
+</Content>

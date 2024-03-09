@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PatientRoll xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pouches BatchId="2041328" PatientId="1234567" PIndex="0">
+    <Pouch>
+      <PouchId>L_2041328_0</PouchId>
+      <SecondValidation>True</SecondValidation>
+      <SecondValidationBy>Support</SecondValidationBy>
+      <CheckedBy>Support</CheckedBy>
+      <CheckedDateTime>2022-02-21 14:04</CheckedDateTime>
+      <PouchImageUrl>http://Pi/PouchImage/2022/1/54485/L_2041328_0/-1/C/?021445530</PouchImageUrl>
+      <ProductionBox>0</ProductionBox>
+      <DoseTime> </DoseTime>
+      <Repairs />
+      <Pills />
+      <VisionState>OK</VisionState>
+      <VisionMessage>Not checked, OK</VisionMessage>
+    </Pouch>
+    <Pouch>
+      <PouchId>200087184</PouchId>
+      <SecondValidation>True</SecondValidation>
+      <SecondValidationBy>Support</SecondValidationBy>
+      <CheckedBy>Support</CheckedBy>
+      <CheckedDateTime>2022-02-21 14:04</CheckedDateTime>
+      <PouchImageUrl>https://tpc.googlesyndication.com/sadbundle/17371416177427597504/UX3405KV_small.png</PouchImageUrl>
+      <ProductionBox>0</ProductionBox>
+      <DoseTime> </DoseTime>
+      <Repairs />
+      <Pills />
+      <VisionState>OK</VisionState>
+      <VisionMessage>Not checked, OK</VisionMessage>
+    </Pouch>
+    <Pouch>
+      <PouchId>200087185</PouchId>
+      <SecondValidation>True</SecondValidation>
+      <SecondValidationBy>Support</SecondValidationBy>
+      <CheckedBy>Support</CheckedBy>
+      <CheckedDateTime>2022-03-11 15:53</CheckedDateTime>
+      <PouchImageUrl>https://m.media-amazon.com/images/I/61ITKEq5RFL._AC_UF894,1000_QL80_.jpg</PouchImageUrl>
+      <ProductionBox>0</ProductionBox>
+      <DoseTime>2-12-19 0730</DoseTime>
+      <Repairs>
+        <Repair>
+          <Comment>2-12-19 111</Comment>
+          <Repair>Remplacer unité cassée</Repair>
+          <User>Support</User>
+          <DateTime>2022-03-11 15:53</DateTime>
+        </Repair>
+      </Repairs>
+      <Pills>
+        <Pill>
+          <MedicationId>22222222222</MedicationId>
+          <Description>TicTac White 20mg</Description>
+          <Amount>2</Amount>
+          <Detected>0</Detected>
+          <Image>
+          </Image>
+        </Pill>
+      </Pills>
+      <VisionState>Not checked</VisionState>
+      <VisionMessage>Repaired, Not checked</VisionMessage>
+    </Pouch>
+    <Pouch>
+      <PouchId>200087186</PouchId>
+      <SecondValidation>True</SecondValidation>
+      <SecondValidationBy>Support</SecondValidationBy>
+      <CheckedBy>Support</CheckedBy>
+      <CheckedDateTime>2022-02-21 14:04</CheckedDateTime>
+      <PouchImageUrl>http://Pi/PouchImage/2022/1/54485/200087186/-1/C/?021445541</PouchImageUrl>
+      <ProductionBox>0</ProductionBox>
+      <DoseTime> </DoseTime>
+      <Repairs />
+      <Pills />
+      <VisionState>OK</VisionState>
+      <VisionMessage>Not checked, OK</VisionMessage>
+    </Pouch>
+    <Pouch>
+      <PouchId>T_2041328_0</PouchId>
+      <SecondValidation>True</SecondValidation>
+      <SecondValidationBy>Support</SecondValidationBy>
+      <CheckedBy>Support</CheckedBy>
+      <CheckedDateTime>2022-02-21 14:04</CheckedDateTime>
+      <PouchImageUrl>https://i5.walmartimages.com/seo/Skycase-Pill-Pouch-Bags-100-Pack-Clear-Resealable-Travel-Daily-Medicine-Organizer-Write-on-Label-Portable-Plastic-Small-Hold-Vitamin-Medication-Pills_a485343a-5e1a-4bd2-9b3e-bcbd117d4d07.f720c359c7910488759d3813ab423a11.jpeg</PouchImageUrl>
+      <ProductionBox>0</ProductionBox>
+      <DoseTime> </DoseTime>
+      <Repairs />
+      <Pills />
+      <VisionState>OK</VisionState>
+      <VisionMessage>Not checked, OK</VisionMessage>
+    </Pouch>
+  </Pouches>
+</PatientRoll>
